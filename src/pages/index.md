@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Running Tales
-image: /img/home-jumbotron.jpg
+image: /img/lrm_export_93099622055397_20191015_131457870.jpeg
 heading: Running Tales
 subheading: Running Tales
 mainpitch:
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
