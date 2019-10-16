@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Running Tales
-image: /img/lrm_export_93099622055397_20191015_131457870.jpeg
+image: /img/ricardo-frantz-eveos_vbmhi-unsplash.jpg
 heading: Running Tales
 subheading: Running Tales
 mainpitch:
