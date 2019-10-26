@@ -6,7 +6,7 @@ description: >+
   คราวนี้ได้เอา SG3 ไปลองใช้บนเทรลจริงแถวๆเชียงใหม่ ระยะทางรวมราวๆ 50K
   เลยอยากจะมาเล่าให้ได้อ่านกันครับ
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/cover.png
 tags:
   - speedgoat3
