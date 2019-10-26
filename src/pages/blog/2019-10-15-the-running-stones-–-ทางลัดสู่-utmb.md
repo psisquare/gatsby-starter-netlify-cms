@@ -5,7 +5,7 @@ date: 2019-10-15T12:23:04.056Z
 description: >-
   หลังหยุดสงกรานต์บ้านเราผ่านไปหมาดๆ ก็มีข่าวดี (รึเปล่าหว่าา ??) จากผู้จัดงาน
   UTMB ให้ได้ตื่นเต้นกัน รายละเอียดจะเป็นยังไง เดี๋ยวจะมาเหลาให้ฟังงง
-featuredpost: true
+featuredpost: false
 featuredimage: /img/covver.png
 tags:
   - utmb
