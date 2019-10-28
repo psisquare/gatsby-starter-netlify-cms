@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.jpg'
+import title from '../img/site-title.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -45,10 +46,14 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Kaldi" style={{ borderRadius: '50px' }} />
             </Link>
             {/* Hamburger menu */}
+            <div>
+              <img src={title}/>
+            </div>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
+              style={{height: 'auto'}}
             >
               <span />
               <span />
