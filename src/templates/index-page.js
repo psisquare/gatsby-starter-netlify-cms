@@ -65,9 +65,9 @@ export const IndexPageTemplate = ({
         </h3> */}
       </div>
     </div>
-    <section className="section section--gradient" >
+    <section className="section section--gradient" style={{ padding: 0 }} >
       <div className="container">
-        <div className="section">
+        <div className="section" style={{ padding: 0 }}>
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
@@ -96,9 +96,9 @@ export const IndexPageTemplate = ({
                   </div>
                 </div> */}
                 <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
+                  {/* <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
-                  </h3>
+                  </h3> */}
                   <BlogFeed />
                   {/* <BlogRoll /> */}
                   {/* <div className="column is-12 has-text-centered">
