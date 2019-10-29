@@ -27,7 +27,7 @@ class BlogFeed extends React.Component {
                   ) : null}
                   <div className="card-content" style={{padding: 20}}>
                     <div className="content">
-                      <div className="has-text-weight-bold is-size-4" style={{ marginBottom: 20}}>
+                      <div className="title is-4" style={{ marginBottom: 20}}>
                         <span>{post.frontmatter.title}</span>
                       </div>
 
@@ -37,9 +37,9 @@ class BlogFeed extends React.Component {
                       </div>
 
                       <div className="has-text-centered" style={{ marginBottom: 20}}>
-                        <Link className="" to={post.fields.slug}>
-                          <a class="button is-medium">Read more</a>
-                          {/* Read more */}
+                        <Link className="button" to={post.fields.slug} style={{ width:210, height: 50}}>
+                          {/* <button class="button is-rounded">Read more</button> */}
+                          READ MORE
                         </Link>
                       </div>
                     </div>
