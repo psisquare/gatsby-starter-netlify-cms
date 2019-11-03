@@ -25,7 +25,7 @@ class BlogFeed extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <div className="card-content" style={{padding: 20}}>
+                  <div className="card-content" style={{padding: 20 }}>
                     <div className="content">
                       <div className="title is-4" style={{ marginBottom: 20}}>
                         <span>{post.frontmatter.title}</span>
